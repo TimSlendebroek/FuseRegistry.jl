@@ -1,6 +1,5 @@
 [0]
 HypergeometricFunctions = "0.3"
-Plots = "1"
 PolygonOps = "0.1"
 RecipesBase = "1"
 StaticArrays = "1"
@@ -15,6 +14,9 @@ FFMPEG = "0.4"
 
 ["0-0.4.0"]
 Interpolations = "0.15"
+
+["0-0.7.2"]
+Plots = "1"
 
 ["0.2-0"]
 IMASutils = "1.2.1-1"
@@ -86,3 +88,4 @@ IMAS = "2.2.1-7"
 
 ["0.7.4-0"]
 FastInterpolations = "0.4"
+Plots = "1"

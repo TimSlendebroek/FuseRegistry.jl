@@ -300,6 +300,10 @@ git-tree-sha1 = "59d0994bc58cc6040162b969f265d4bbf44220bb"
 
 ["7.1.8"]
 git-tree-sha1 = "55f39d15e62dbe22878230008cc6c484109856d2"
+yanked = true
+
+["7.1.8+design.2"]
+git-tree-sha1 = "e9531f26a765eafc5d39039daf9b294e5c01f1bd"
 
 ["7.2.0"]
 git-tree-sha1 = "de8d5f224355d2b3659e06cb102a4570e948b5c0"

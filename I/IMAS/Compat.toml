@@ -56,7 +56,7 @@ Ratios = "0.4"
 ["1.14-1.14.1"]
 IMASdd = "2.4.0-2"
 
-["1.14-7"]
+["1.14-7.1.7"]
 GraphRecipes = "0.5"
 Graphs = "1"
 
@@ -87,7 +87,7 @@ Plots = "1"
 ["1.6-3.4.0"]
 FFMPEG = "0.4"
 
-["1.6-7"]
+["1.6-7.1.7"]
 Plots = "1"
 
 ["1.8.8-1.13"]
@@ -172,17 +172,21 @@ Random = "1.11.0-1"
 [6]
 IMASdd = "8"
 
-[7]
+["7-7.1.7"]
 IMASdd = "8.3.0-8"
 
 ["7.1.8-7"]
+AdaptiveArrayPools = "0.3.6-0.3"
 FastInterpolations = "0.4.14-0.4"
 Optim = "1-2"
 Roots = "2-3"
+SimpleNonlinearSolve = "2"
 
 ["7.1.8-7.1"]
-SimpleNonlinearSolve = "2.12.0-2"
+IMASdd = "8.4.2-8.5"
 
 ["7.2-7"]
-AdaptiveArrayPools = "0.3.6-0.3"
-SimpleNonlinearSolve = "2"
+GraphRecipes = "0.5"
+Graphs = "1"
+IMASdd = "8.3.0-8"
+Plots = "1"

@@ -24,3 +24,7 @@ git-tree-sha1 = "c9ab034443c668b5624c3af98a2974387f12751b"
 
 ["1.1.0"]
 git-tree-sha1 = "7d5482e15522e0111e45202d19dfecb94e0b9a3b"
+yanked = true
+
+["1.1.0+design.1"]
+git-tree-sha1 = "7e5df815d1440950f4786e8340b604df8553b3d7"

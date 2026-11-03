@@ -18,7 +18,6 @@ KrylovKit = "0.10.2-0.10"
 LinearAlgebra = "1.11.0-1"
 LinearMaps = "3.11.4-3"
 PackageCompiler = "2.2.5-2"
-Plots = "1.41.6-1"
 Printf = "1.11.0-1"
 Revise = "3.14.3-3"
 Serialization = "1.11.0-1"
@@ -29,6 +28,9 @@ StaticArrays = "1.9.18-1"
 
 ["2.0.1-2.0.10"]
 TJLF = "1.2.4-1"
+
+["2.0.1-2.0.13"]
+Plots = "1.41.6-1"
 
 ["2.0.1-2.0.5"]
 GACODE = "1.0.9-1"
@@ -41,6 +43,9 @@ TJLF = "1.2.12-1"
 
 ["2.0.12-2.0.16"]
 SimpleNonlinearSolve = "2.12.0-2"
+
+["2.0.15-2"]
+Plots = "1.41.6-1"
 
 ["2.0.16-2"]
 TJLF = "2"

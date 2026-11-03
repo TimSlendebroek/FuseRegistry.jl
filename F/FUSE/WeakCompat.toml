@@ -6,3 +6,7 @@ ThermalSystemModels = "1"
 
 ["0.9.2-1"]
 Weave = "0.10"
+
+["1.1.5"]
+PAM = "2"
+Plots = "1"
